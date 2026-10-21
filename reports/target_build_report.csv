@@ -1,0 +1,5 @@
+symbol,rows,labelled_rows,unlabelled_rows,long_count,short_count,no_trade_count,output_file,status
+BTC/USDT,42091,42057,34,16339,15887,9831,data\features\BTC_USDT_1h_targets.parquet,PASS
+ETH/USDT,42091,42057,34,17168,16613,8276,data\features\ETH_USDT_1h_targets.parquet,PASS
+SOL/USDT,42091,42057,34,17618,17673,6766,data\features\SOL_USDT_1h_targets.parquet,PASS
+XRP/USDT,42091,42057,34,17124,17515,7418,data\features\XRP_USDT_1h_targets.parquet,PASS

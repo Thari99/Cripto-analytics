@@ -1,0 +1,5 @@
+symbol,rows,first_timestamp,last_timestamp,missing_hourly_candles,gap_count,segment_count,shortest_segment_rows,longest_segment_rows,output_file,status
+BTC/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,1,1,2,10741,31350,data\processed\BTC_USDT_1h.parquet,PASS
+ETH/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,1,1,2,10741,31350,data\processed\ETH_USDT_1h.parquet,PASS
+SOL/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,1,1,2,10741,31350,data\processed\SOL_USDT_1h.parquet,PASS
+XRP/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,1,1,2,10741,31350,data\processed\XRP_USDT_1h.parquet,PASS

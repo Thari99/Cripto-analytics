@@ -1,0 +1,5 @@
+symbol,rows,segment_count,infinite_feature_values,rows_with_nan_features,zero_range_candles,output_file,status
+BTC/USDT,42091,2,0,337,1,data\features\BTC_USDT_1h.parquet,PASS
+ETH/USDT,42091,2,0,337,1,data\features\ETH_USDT_1h.parquet,PASS
+SOL/USDT,42091,2,0,337,1,data\features\SOL_USDT_1h.parquet,PASS
+XRP/USDT,42091,2,0,337,1,data\features\XRP_USDT_1h.parquet,PASS

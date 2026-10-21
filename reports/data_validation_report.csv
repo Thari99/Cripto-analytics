@@ -1,0 +1,5 @@
+symbol,rows,first_timestamp,last_timestamp,invalid_timestamps,duplicate_timestamps,out_of_order,non_numeric_or_missing,infinite_values,non_positive_prices,invalid_ohlc,negative_volume,missing_hourly_candles,missing_hour_gaps,known_gap_count,unexpected_gap_count,known_gap_timestamps,unexpected_gap_timestamps,largest_gap,latest_completed_is_missing,status
+BTC/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,0,0,0,0,0,0,0,0,1,1,1,0,2023-03-24 13:00:00+00:00,,0 days 02:00:00,False,PASS
+ETH/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,0,0,0,0,0,0,0,0,1,1,1,0,2023-03-24 13:00:00+00:00,,0 days 02:00:00,False,PASS
+SOL/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,0,0,0,0,0,0,0,0,1,1,1,0,2023-03-24 13:00:00+00:00,,0 days 02:00:00,False,PASS
+XRP/USDT,42091,2022-01-01 00:00:00+00:00,2026-10-20 19:00:00+00:00,0,0,0,0,0,0,0,0,1,1,1,0,2023-03-24 13:00:00+00:00,,0 days 02:00:00,False,PASS
